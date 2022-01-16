@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on zjut
+- 🌱 I’m currently learning operating system kernel development, network programming, C++
+- 📫 How to reach me: my email is 1433137434@qq.com
 <!--
 **mufiye/mufiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
