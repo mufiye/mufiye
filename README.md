@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Zjut(Zhejiang university of technology).
 - 🤔 I will be a graduate student in ECUST(East China University Of Science and Technology).
-- 🌱 I’m currently learning operating system kernel development, network programming, C++.
+- 🌱 I’m currently learning operating system kernel development and backend development.
 - 📫 How to reach me: my email is 1433137434@qq.com.
 
 
