@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I currently study software engineering at Zjut(Zhejiang university of technology).
-- 🤔 I will be a graduate student of computer technology in ECUST(East China University Of Science and Technology).
-- 🌱 I’m currently learning operating system kernel development, backend development and deep learning. 
+- 🔭 I graduate from Zjut(Zhejiang university of technology).
+- 🤔 Now, I am a graduate student of computer technology in ECUST(East China University Of Science and Technology).
+- 🌱 I’m currently learning backend development and skywalking. 
 - 📫 How to reach me: my email is mufiye140520@gmail.com.
 
 
