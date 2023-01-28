@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I graduate from Zjut(Zhejiang university of technology).
 - 🤔 Now, I am a graduate student of computer technology in ECUST(East China University Of Science and Technology).
-- 🌱 I’m currently learning backend development and skywalking. 
+- 🌱 I’m currently learning spatio-temporal data mining, backend development and apache-skywalking. 
 - 📫 How to reach me: my email is mufiye140520@gmail.com.
 
 
