@@ -1,7 +1,10 @@
 ### Hi there 👋
 - 🔭 I graduate from Zjut(Zhejiang university of technology).
 - 🤔 Now, I am a graduate student of computer technology in ECUST(East China University Of Science and Technology).
-- 🌱 I’m currently learning spatio-temporal data mining, backend development and apache-skywalking. 
+- 😄 I tried to be an operating system kernel development engineer and participate in openEuler community in 2021.10 - 2022.7.
+- 🌱 I’m currently learning backend development and spatio-temporal data mining.
+- 👯 I’m interested in open source project and cloud native.
+- ⚡ Now I dive into apache skywalking and apache dubbo to contribute.
 - 📫 How to reach me: my email is mufiye140520@gmail.com.
 
 
