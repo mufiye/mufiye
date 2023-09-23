@@ -2,9 +2,11 @@
 - 🔭 I graduate from Software Engineering, Zjut(Zhejiang university of technology).
 - 🤔 Now, I am a graduate student of computer technology in ECUST(East China University Of Science and Technology).
 - 😄 I tried to be an operating system kernel development engineer and participate in openEuler community on 2021.10 - 2022.7.
-- 🌱 I’m currently learning backend development and spatio-temporal data mining.
-- 👯 I’m interested in open source project, big data and cloud native.
-- ⚡ Now I dive into apache skywalking and apache dubbo to contribute.
+- 😄 I’m working in RedBook's Observable Technology Group from June.
+- 🌱 I’m currently researching time series anomaly detection for AIOps.
+- 👯 I’m interested in open source project, observable domain and cloud native.
+- ⚡ Past I dive into apache skywalking.
+- ⚡ Future I hope I can dive into k8s, prometheus and many other observable domain projects.
 - 📫 How to reach me: my email is mufiye140520@gmail.com.
 
 
