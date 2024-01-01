@@ -2,7 +2,7 @@
 - 🔭 I graduate from Software Engineering, Zjut(Zhejiang university of technology).
 - 🤔 Now, I am a graduate student of computer technology in ECUST(East China University Of Science and Technology).
 - 😄 I tried to be an operating system kernel development engineer and participate in openEuler community on 2021.10 - 2022.7.
-- 😄 I’m working in RedBook's Observable Technology Group from June.
+- 😄 I has worked in RedBook's Observable Technology Group from June to October.
 - 🌱 I’m currently researching time series anomaly detection for AIOps.
 - 👯 I’m interested in open source project, observable domain and cloud native.
 - ⚡ Past I dive into apache skywalking.
